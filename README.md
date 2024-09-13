@@ -1,9 +1,8 @@
 # Hwang SooYeon 👋
 
 ## 💬 About me
-
-🏛️ Seoul National University
-Major: Interdisciplinary Program in Artificial Intelligence
+### 🏛️ Seoul National University
+### 😺 Major: Interdisciplinary Program in Artificial Intelligence
 
 
 <!--
