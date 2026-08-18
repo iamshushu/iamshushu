@@ -1,4 +1,4 @@
-# Hwang SooYeon 👋
+# Hwang Sooyeon 👋
 
 ### 💬 About me
 #### 🏛️ Seoul National University
